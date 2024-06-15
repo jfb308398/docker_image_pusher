@@ -1,1 +1,1 @@
-fastgpt:latest
+nginx

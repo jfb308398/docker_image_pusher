@@ -1,1 +1,1 @@
-nginx
+ghcr.io/labring/fastgpt:latest

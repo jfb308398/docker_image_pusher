@@ -1,1 +1,1 @@
-ghcr.io/labring/fastgpt:latest
+1panel/maxkb
